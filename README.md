@@ -19,5 +19,5 @@ Here are some ideas to get you started:
 
 
 
-<a href="https://hosted.weblate.org/engage/godot-engine/zh_Hans/"><img src="https://hosted.weblate.org/widgets/godot-engine/zh_Hans/godot-docs/open-graph.png" alt="翻译状态" />
+<a href="https://hosted.weblate.org/engage/godot-engine/zh_Hans/"><img src="https://hosted.weblate.org/widgets/godot-engine/zh_Hans/godot-docs/open-graph.png" width="500" alt="翻译状态" />
 </a>
