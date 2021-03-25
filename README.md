@@ -16,3 +16,8 @@ Here are some ideas to get you started:
 -->
 
 [![我的 GitHub 数据](https://github-readme-stats.vercel.app/api?username=bugmaker2)]()
+
+
+
+<a href="https://hosted.weblate.org/engage/godot-engine/zh_Hans/"><img src="https://hosted.weblate.org/widgets/godot-engine/zh_Hans/godot-docs/open-graph.png" alt="翻译状态" />
+</a>
